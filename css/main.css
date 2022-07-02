@@ -1,0 +1,10 @@
+h1{
+    color: blueviolet;
+}
+h3{
+    display: inline-block;
+}
+small{
+    display: block;
+    background-color: purple;
+}
